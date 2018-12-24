@@ -1,0 +1,1 @@
+ezyalts: node index.js
